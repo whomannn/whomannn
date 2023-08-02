@@ -4,12 +4,12 @@
 **whomannn/whomannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning  DRF
 - 💬 Ask me about Python,Django
 - 📫 How to reach me: Hooman.khoshdel@gmail.com
--->
+
 
 
 ## 🌐 Socials:
