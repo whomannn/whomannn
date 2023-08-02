@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ali Bigdeli</h1>
-<h3 align="center">IOT and AI Developer</h3>
+<h1 align="center">Hi 👋, I'm Hooman Khoshdel</h1>
+
+
 # 💫 About Me:
 <!--
 **whomannn/whomannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
